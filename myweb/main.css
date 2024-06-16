@@ -697,7 +697,7 @@ add to cart
 
 }
 
-@media (max-width: 500px) {
+@media (max-width: 350px) {
     .responsive-text {
         font-size: 0.5rem;
         margin-top: -15px;
