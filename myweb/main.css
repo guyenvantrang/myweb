@@ -1083,7 +1083,64 @@ body.dark header {
 body.dark .fa-regular{
     color: white;
 }
+body.dark p{
+    color: white;
+}
+body.dark h5{
+    color: white;
+}
+body.dark .col2{
+    color: white;
+}
+body.dark .location{
+    color: white;
+}
+body.dark h3{
+    color: white;
+}
+body.dark .jd{
+    background-image: linear-gradient(to right,rgb(26, 7, 62),rgb(18, 6, 29));
+}
+body.dark .address_tuyendung{
+    background-image: linear-gradient(to right,rgb(26, 7, 62),rgb(18, 6, 29));
+}
+body.dark .list_post{
+    background-image: linear-gradient(to right,rgb(25, 42, 15),rgb(28, 0, 54));
+}
+body.dark span{
+   color: white;
+}
+body.dark i{
+    color: white !important;
+}
+body.dark th{
+    color: white !important;
+}
+body.dark td{
+    color: white !important;
+}
+body.dark strong{
+    color: white;
+}
+body.dark .mb-0{
+    color: rgb(0, 0, 0);
+}
 
+footer {
+    background-image: url('./Imggg/avt/hinh-anh-lang-que-viet-nam-26.jpg');
+    background-size: cover;
+    object-fit: cover;
+    height: auto;
+    overflow: hidden;
+}
+body.dark .text_add{
+color: white;
+}
+.erro{
+    color: #ff0000;
+    position: absolute;
+    font-size: 12px;
+}
 footer {
     background-image: url('./Imggg/avt/hinh-anh-lang-que-viet-nam-26.jpg');
     background-size: cover;
